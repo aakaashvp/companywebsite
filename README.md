@@ -376,13 +376,13 @@ return true; }
 ![output](./static/img/output4.png)
 
 ## CODE VALIDATION REPORT:
-![output](./static/img/report1.jpg)
+![output](./static/img/report1.jpeg)
 
-![output](./static/img/report2.jpg)
+![output](./static/img/report2.jpeg)
 
-![output](./static/img/report3.jpg)
+![output](./static/img/report3.jpeg)
 
-![output](./static/img/report4.jpg)
+![output](./static/img/report4.jpeg)
 
 ## RESULT:
 Thus a website is designed for the chip manufacturing company and is hosted in the URL http://demo2.student.saveetha.in:8000/. HTML code is validated.
