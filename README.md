@@ -385,4 +385,4 @@ return true; }
 ![output](./static/img/report4.jpeg)
 
 ## RESULT:
-Thus a website is designed for the chip manufacturing company and is hosted in the URL http://demo2.student.saveetha.in:8000/. HTML code is validated.
+Thus a website is designed for the chip manufacturing company and is hosted in the URL http://aakaash.student.saveetha.in:8000/. HTML code is validated.
